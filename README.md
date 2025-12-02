@@ -75,14 +75,21 @@ Live Server (se houver front-end estático)
 
 /Project-ECOAR
 │── /inicio
+
 │   ├── run.py
+
 │   ├── /static
+
 │   ├── /templates
+
 │   ├── /routes
+
 │   ├── /services
+
 │   └── /models
 │
 │── README.md
+
 │── requirements.txt
 
 🔧 Instalação e Configuração
@@ -109,7 +116,7 @@ python run.py
 
 
 Servidor rodará em:
-👉 http://127.0.0.1:8000
+👉http://localhost:8080/index.html
 
 🗄️ Configuração do Banco (MongoDB)
 
@@ -127,11 +134,17 @@ Exemplo de documento no MongoDB:
 
 {
   "nome": "João Silva",
+  
   "curso": "Engenharia",
+  
   "periodo": 3,
+  
   "risco_evasao": "alto",
+  
   "justificativa": "Faltas recorrentes",
+  
   "ultima_acao": "Contato realizado"
 }
+
 
 
