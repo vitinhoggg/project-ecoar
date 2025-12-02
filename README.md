@@ -73,8 +73,6 @@ Live Server (se houver front-end estático)
 
 📂 Estrutura do Projeto (exemplo)
 
-(posso ajustar conforme o conteúdo real do seu .rar)
-
 /Project-ECOAR
 │── /inicio
 │   ├── run.py
@@ -89,7 +87,7 @@ Live Server (se houver front-end estático)
 
 🔧 Instalação e Configuração
 1. Clonar o repositório
-git clone https://github.com/vitinhoggg/projeto-ecoar.git
+git clone https://github.com/vitinhoggg/project-ecoar.git
 cd projeto-ecoar
 
 3. Criar ambiente virtual
@@ -135,4 +133,5 @@ Exemplo de documento no MongoDB:
   "justificativa": "Faltas recorrentes",
   "ultima_acao": "Contato realizado"
 }
+
 
