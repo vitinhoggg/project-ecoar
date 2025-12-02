@@ -1,5 +1,6 @@
 📘 README – Projeto ECOAR
 Sistema de Acompanhamento de Alunos em Risco de Evasão
+
 📌 Descrição do Projeto
 
 O Projeto ECOAR tem como objetivo monitorar, acompanhar e intervir precocemente em casos de alunos com risco de evasão no ambiente acadêmico.
@@ -88,17 +89,17 @@ Live Server (se houver front-end estático)
 
 🔧 Instalação e Configuração
 1. Clonar o repositório
-git clone https://github.com/seu-usuario/projeto-ecoar.git
+git clone https://github.com/vitinhoggg/projeto-ecoar.git
 cd projeto-ecoar
 
-2. Criar ambiente virtual
+3. Criar ambiente virtual
 python -m venv venv
 venv\Scripts\activate
 
-3. Instalar dependências
+4. Instalar dependências
 pip install -r requirements.txt
 
-4. Configurar variáveis de ambiente
+5. Configurar variáveis de ambiente
 
 Crie um arquivo .env:
 
@@ -134,3 +135,4 @@ Exemplo de documento no MongoDB:
   "justificativa": "Faltas recorrentes",
   "ultima_acao": "Contato realizado"
 }
+
